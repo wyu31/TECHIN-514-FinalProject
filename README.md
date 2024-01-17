@@ -13,7 +13,8 @@ This GitHub repository is for my TECHIN-514 final project and all my related fil
 
 ### Slide 3 - Display Device
 
-### Slide 4 - Display Device
+### Slide 4 - Figure & Diagram
 
 **Device Communication Figure**
+
 **Workflow Diagram**
