@@ -17,7 +17,7 @@ Generally, I want to achieve:
 5. **Button** can switch the random animations on the LED Array
 
 **General Sketch**  
-![Image of the general sketch](images/Overview.JPG)
+![Image of the general sketch](images/Overview.jpg)
 
 ### Slide 2 - Sensor Device
 In this part, the enclosure is divided into two parts: fingertip and wrist. The fingertip enclosure contains the MPU6050, and the wrist enclosure contains the ESP32 processor and battery.
@@ -36,7 +36,7 @@ MPU6050 and ESP32 will also detect and analyze different gestures as different d
 6. Custom PCB: will be based on the sensor, battery & enclosure size
 
 
-![Image of the general sketch](images/slide2.JPG)
+![Image of the general sketch](images/slide2.jpg)
 
 ### Slide 3 - Display Device
 The shaking acceleration of the stepper motor pointer depends on the acceleration of the finger; the intensity of the sound and enhanced sound also depends on the acceleration of the finger.
@@ -57,12 +57,12 @@ The OLED screen will display the names of the components of the drum set selecte
 7. Battery: Lithium Ion Polymer Battery Ideal For Feathers
 8. Displays: OLED - Text info of the type of drum sound currently selected
 
-![Image of the general sketch](images/slide3.JPG)
+![Image of the general sketch](images/slide3.jpg)
 
 ### Slide 4 - Figure & Diagram
 
 **Device Communication Figure**
-![Image of the general sketch](images/slide4-1.JPG)
+![Image of the general sketch](images/slide4-1.jpg)
 
 **Workflow Diagram**
-![Image of the general sketch](images/slide4-2.JPG)
+![Image of the general sketch](images/slide4-2.jpg)
