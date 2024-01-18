@@ -36,7 +36,7 @@ MPU6050 and ESP32 will also detect and analyze different gestures as different d
 6. Custom PCB: will be based on the sensor, battery & enclosure size
 
 
-![Image of the general sketch](images/slide2.jpg)
+![Image of the slide2](images/slide2.jpg)
 
 ### Slide 3 - Display Device
 The shaking acceleration of the stepper motor pointer depends on the acceleration of the finger; the intensity of the sound and enhanced sound also depends on the acceleration of the finger.
@@ -57,12 +57,19 @@ The OLED screen will display the names of the components of the drum set selecte
 7. Battery: Lithium Ion Polymer Battery Ideal For Feathers
 8. Displays: OLED - Text info of the type of drum sound currently selected
 
-![Image of the general sketch](images/slide3.jpg)
+![Image of the slide3](images/slide3.jpg)
 
 ### Slide 4 - Figure & Diagram
 
 **Device Communication Figure**
-![Image of the general sketch](images/slide4-1.jpg)
+![Image of the communication figure](images/slide4-1.jpg)
 
 **Workflow Diagram**
-![Image of the general sketch](images/slide4-2.jpg)
+![Image of the workflow diagram](images/slide4-2.jpg)
+
+## PCB Lab
+### Processer: XIAO-ESP32-S3
+![Image of the xiao-esp32-s3 pinout](images/xiao_esp32s3_pinout.jpg)
+
+### Sensor: XIAO-ESP32-S3
+![Image of the mpu6050 pinout](images/mpu6050_pinout.jpg)
