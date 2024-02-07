@@ -67,6 +67,9 @@ The OLED screen will display the names of the components of the drum set selecte
 **Workflow Diagram**
 ![Image of the workflow diagram](images/slide4-2.jpg)
 
+**Display Device Arch**
+![Image of arch](images/display_device_arch_v2.jpg)
+
 ## PCB Lab
 ### Processer: XIAO-ESP32-S3
 ![Image of the xiao-esp32-s3 pinout](images/xiao_esp32s3_pinout.jpg)
